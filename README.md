@@ -1,6 +1,8 @@
 # Basic Anchor RSS feed scrape
 
-Connect and scrape public RSS from anchor.
+Connect and scrape public RSS from https://anchor.fm/. The RSS needs to bet set to public.
+
+I recommend viewing the rss url in browser first to see the structure, below I show how to scrape through some key items
 
 ```javascript
 
